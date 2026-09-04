@@ -15,15 +15,16 @@ Unreal Engine 5 팀 프로젝트에서 제가 담당한 Gameplay Framework 및 �
 부트캠프 최우수상 수상 · 2025 G-Star 시연 관람객 118명 설문에서 만족도 4점 이상 63.6%, 난이도 긍정 평가 89.8%
 
 담당 — Gameplay Framework 및 멀티플레이 접속 플로우
-GameInstance, GameMode, GameState, PlayerState, PlayerController 기반 멀티플레이 Gameplay Framework 구조 구현
-로비 → 인게임 전환 플로우 구성. Listen Server 환경에서 맵 전환 이후에도 게임 상태와 플레이어 상태가 유지되도록 처리
-Advanced Sessions 플러그인을 활용한 Steam 세션 생성·검색·참가 기능 구현
-Async Loading Screen 플러그인을 활용한 세션 전환 로딩 화면 구현
-MainMenu UI 구성 및 구현
-G-Star 시연 버전까지 기능 개선 및 안정화
-주요 파일
-파일	역할
-파일명.h/.cpp	한 줄 설명
-파일명.h/.cpp	한 줄 설명
-파일명.h/.cpp	한 줄 설명
+
+-GameInstance, GameMode, GameState, PlayerState, PlayerController 기반 멀티플레이 Gameplay Framework 구조 구현
+-로비 → 인게임 전환 플로우 구성. Listen Server 환경에서 맵 전환 이후에도 게임 상태와 플레이어 상태가 유지되도록 처리
+-Advanced Sessions 플러그인을 활용한 Steam 세션 생성·검색·참가 기능 구현
+-Async Loading Screen 플러그인을 활용한 세션 전환 로딩 화면 구현
+-MainMenu UI 구성 및 구현
+-G-Star 시연 버전까지 기능 개선 및 안정화
+
+
+
+
+
 <br>
