@@ -16,7 +16,7 @@ Unreal Engine 5 팀 프로젝트에서 제가 담당한 Gameplay Framework 및 �
 
 담당 — Gameplay Framework 및 멀티플레이 접속 플로우
 
--GameInstance, GameMode, GameState, PlayerState, PlayerController 기반 멀티플레이 Gameplay Framework 구조 구현
+-GameInstance, GameMode, GameState, PlayerState, PlayerController 기반 멀티플레이 Gameplay Framework 구조 구현 
 -로비 → 인게임 전환 플로우 구성. Listen Server 환경에서 맵 전환 이후에도 게임 상태와 플레이어 상태가 유지되도록 처리
 -Advanced Sessions 플러그인을 활용한 Steam 세션 생성·검색·참가 기능 구현
 -Async Loading Screen 플러그인을 활용한 세션 전환 로딩 화면 구현
